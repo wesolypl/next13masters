@@ -1,0 +1,8 @@
+{
+	"typescript.tsdk": "node_modules/typescript/lib",
+	"graphql-config.dotEnvPath": "./.env",
+	"graphql-config.load.configName": "graphql",
+	"files.associations": {
+		"*.css": "tailwindcss"
+	}
+}
