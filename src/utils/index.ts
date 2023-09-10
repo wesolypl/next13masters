@@ -1,0 +1,1 @@
+export { getMoney } from "./getMoney";
