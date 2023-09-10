@@ -1,6 +1,6 @@
-import { Product } from "@/ui/Products/types";
+import type { ProductType } from "@/ui/Products/types";
 
-export const products: Product[] = [
+export const products: ProductType[] = [
 	{
 		uuid: "6061fa00-e753-5e81-8c24-519f2b4b549d",
 		name: "T-shirt 1",
